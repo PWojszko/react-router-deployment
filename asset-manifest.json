@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/react-router-deployment/static/css/main.073c9b0a.css",
-    "main.js": "/react-router-deployment/static/js/main.c94722da.js",
-    "static/js/787.b9b8549f.chunk.js": "/react-router-deployment/static/js/787.b9b8549f.chunk.js",
-    "static/media/logo.svg": "/react-router-deployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-router-deployment/index.html",
-    "main.073c9b0a.css.map": "/react-router-deployment/static/css/main.073c9b0a.css.map",
-    "main.c94722da.js.map": "/react-router-deployment/static/js/main.c94722da.js.map",
-    "787.b9b8549f.chunk.js.map": "/react-router-deployment/static/js/787.b9b8549f.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c94722da.js"
-  ]
+  "main.css": "/react-router-deployment/static/css/main.e8632aae.chunk.css",
+  "main.js": "/react-router-deployment/static/js/main.d6982cdd.chunk.js",
+  "main.js.map": "/react-router-deployment/static/js/main.d6982cdd.chunk.js.map",
+  "runtime~main.js": "/react-router-deployment/static/js/runtime~main.47f6e527.js",
+  "runtime~main.js.map": "/react-router-deployment/static/js/runtime~main.47f6e527.js.map",
+  "static/js/2.328dd813.chunk.js": "/react-router-deployment/static/js/2.328dd813.chunk.js",
+  "static/js/2.328dd813.chunk.js.map": "/react-router-deployment/static/js/2.328dd813.chunk.js.map",
+  "index.html": "/react-router-deployment/index.html",
+  "precache-manifest.9827e9c78ef135c432ff0a513bdd5b6e.js": "/react-router-deployment/precache-manifest.9827e9c78ef135c432ff0a513bdd5b6e.js",
+  "service-worker.js": "/react-router-deployment/service-worker.js",
+  "static/css/main.e8632aae.chunk.css.map": "/react-router-deployment/static/css/main.e8632aae.chunk.css.map",
+  "static/media/header1.jpg": "/react-router-deployment/static/media/header1.70e6670e.jpg",
+  "static/media/header2.jpg": "/react-router-deployment/static/media/header2.33eca35f.jpg",
+  "static/media/header3.jpg": "/react-router-deployment/static/media/header3.d9d36b65.jpg"
 }
